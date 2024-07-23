@@ -30,5 +30,5 @@ public class Genero
 
 		Nome = command.Nome;
 		MaiorIdade = command.MaiorIdade;
-	}
+    }
 }

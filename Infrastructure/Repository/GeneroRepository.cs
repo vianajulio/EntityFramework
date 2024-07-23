@@ -16,7 +16,7 @@ public class GeneroRepository : IGeneroRepository
 	public Task AtualizarGeneroAsync(Guid generoId, Genero generoAtualizado)
 	{
 		throw new NotImplementedException();
-	}
+    }
 
 	public Task DeletarGeneroAsync(Guid generoId)
 	{
@@ -32,13 +32,17 @@ public class GeneroRepository : IGeneroRepository
 		await _dataContext.SaveChangesAsync();
 	}
 
-	public Task<Genero> ObterGeneroAsync(Guid generoId)
+	public async Task<Genero?> ObterGeneroAsync(Guid generoId)
 	{
-		throw new NotImplementedException();
+		return await _dataContext.Genero
+            .FirstOrDefaultAsync(g => g.Codigo == generoId);
 	}
 
-	public Task<IReadOnlyCollection<Genero>> ObterTodosGenerosAsync()
+	public async Task<IReadOnlyCollection<Genero>> ObterTodosGenerosAsync() 
 	{
-		throw new NotImplementedException();
-	}
+		return await _dataContext.Genero
+			.AsNoTracking()
+            .OrderBy(g => g.Nome)
+            .ToListAsync();
+    }
 }

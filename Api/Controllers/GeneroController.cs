@@ -18,8 +18,24 @@ public class GeneroController : ControllerBase
 		_generoService = generoService;
 	}
 
-	[HttpPost]
-	public async Task<IActionResult> Post([FromBody] CriarGeneroRequest genero)
+    [HttpGet]
+    public async Task<IActionResult> ObterTodosGenerosAsync()
+    {
+        var gen = await _generoService.ObterTodosGenerosAsync();
+
+        return gen is null ? NotFound() : Ok(gen);
+    }
+
+    [HttpGet("{id:guid}")]
+    public async Task<IActionResult> ObterPorIdAsync(Guid id)
+    {
+        var gen = await _generoService.ObterPorIdAsync(id);
+
+        return gen is null ? NotFound() : Ok(gen);
+    }
+
+    [HttpPost]
+	public async Task<IActionResult> AdicionarGeneroAsync([FromBody] CriarGeneroRequest genero)
 	{
 		var gen = await _generoService.AdicionarGeneroAsync(genero);
 

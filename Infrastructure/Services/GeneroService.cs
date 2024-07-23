@@ -26,14 +26,14 @@ public class GeneroService(IGeneroRepository generoRepository, GeneroValidator v
 		throw new NotImplementedException();
 	}
 
-	public Task<Genero?> ObterPorIdAsync(Guid id)
+	public async Task<Genero?> ObterPorIdAsync(Guid id)
 	{
-		throw new NotImplementedException();
+		return await generoRepository.ObterGeneroAsync(id);
 	}
 
-	public Task<IReadOnlyCollection<Genero>> ObterGeneroAsync()
+	public async Task<IReadOnlyCollection<Genero>> ObterTodosGenerosAsync()
 	{
-		throw new NotImplementedException();
+		return await generoRepository.ObterTodosGenerosAsync();
 	}
 
 	public Task<Genero?> UpdateGeneroAsync()
@@ -43,6 +43,6 @@ public class GeneroService(IGeneroRepository generoRepository, GeneroValidator v
 
 	public Task<Genero?> AtualizarGeneroAsync(AtualizarGeneroRequest request)
 	{
-		throw new NotImplementedException();
-	}
+        throw new NotImplementedException();
+    }
 }

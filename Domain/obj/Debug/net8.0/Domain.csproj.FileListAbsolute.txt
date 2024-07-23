@@ -24,3 +24,16 @@ D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.dll
 D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Projetos\EntityFramework\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projetos\EntityFramework\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projetos\EntityFramework\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projetos\EntityFramework\Domain\obj\Debug\net8.0\ref\Domain.dll

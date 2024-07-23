@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Projetos\\EntityFramework\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj": {
+    "C:\\Projetos\\EntityFramework\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\EntityFramework\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "D:\\Fraga\\EntityFramework\\Domain\\obj\\",
+        "projectPath": "C:\\Projetos\\EntityFramework\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\EntityFramework\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,21 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projetos\\EntityFramework\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "D:\\Fraga\\EntityFramework\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Projetos\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\EntityFramework\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,14 +89,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj"
+              "C:\\Projetos\\EntityFramework\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projetos\\EntityFramework\\Domain\\Domain.csproj"
               }
             }
           }
@@ -152,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
