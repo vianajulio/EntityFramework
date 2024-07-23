@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IeRLZ/mnVE1kxB4H88gdgizUMQaUNflukFXgGqGhHyk5yjeHf3u+DbZgrPhlT/9Ga1fqlVHZGp3iNhJJPzCeg==",
+  "success": true,
+  "projectFilePath": "D:\\Fraga\\EntityFramework\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

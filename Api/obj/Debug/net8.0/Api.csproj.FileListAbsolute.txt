@@ -1,0 +1,256 @@
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\appsettings.json
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Api.exe
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Api.deps.json
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Api.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Api.pdb
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Domain.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Infrastructure.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.sourcelink.json
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.dll
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.pdb
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Fraga\Entity Framework\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\MySql.Data.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\Entity Framework\Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\appsettings.json
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Api.exe
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Api.deps.json
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Api.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Api.pdb
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Humanizer.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\MySql.Data.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Text.Json.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ZstdSharp.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Domain.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Infrastructure.dll
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\EntityFramework\Api\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.sourcelink.json
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.dll
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.pdb
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\Fraga\EntityFramework\Api\obj\Debug\net8.0\ref\Api.dll

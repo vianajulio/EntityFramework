@@ -1,0 +1,36 @@
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Fraga\Entity Framework\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Fraga\Entity Framework\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Fraga\EntityFramework\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Fraga\EntityFramework\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

@@ -1,0 +1,26 @@
+D:\Fraga\Entity Framework\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Fraga\Entity Framework\Domain\bin\Debug\net8.0\Domain.dll
+D:\Fraga\Entity Framework\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.dll
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Fraga\Entity Framework\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Fraga\EntityFramework\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Fraga\EntityFramework\Domain\bin\Debug\net8.0\Domain.dll
+D:\Fraga\EntityFramework\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.dll
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Fraga\EntityFramework\Domain\obj\Debug\net8.0\ref\Domain.dll
