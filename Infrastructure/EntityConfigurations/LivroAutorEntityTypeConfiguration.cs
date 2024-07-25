@@ -14,10 +14,12 @@ public class LivroAutorEntityTypeConfiguration : IEntityTypeConfiguration<LivroA
 
 		builder.HasOne(la => la.Autor)
 			.WithMany(l => l.Livros)
-			.HasForeignKey(la => la.LivroCodigo);
+			.HasForeignKey(la => la.LivroCodigo)
+			.OnDelete(DeleteBehavior.Cascade);
 
 		builder.HasOne(la => la.Livro)
 			.WithMany(a => a.Autores)
-			.HasForeignKey(la => la.AutorCodigo);
+			.HasForeignKey(la => la.AutorCodigo)
+			.OnDelete(DeleteBehavior.Cascade);
 	}
 }
