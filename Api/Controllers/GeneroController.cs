@@ -1,5 +1,4 @@
-﻿using Domain.Genero;
-using Domain.Genero.Requests;
+﻿using Domain.Genero.Requests;
 using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 

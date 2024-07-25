@@ -1,4 +1,5 @@
-﻿using Domain.Genero;
+﻿using Domain.Exceptions;
+using Domain.Genero;
 using Domain.Genero.Requests;
 using Domain.Genero.Validators;
 using Infrastructure.Repository;
@@ -9,6 +10,8 @@ public class GeneroService(IGeneroRepository generoRepository, GeneroValidator v
 {
 	public async Task<Genero> AdicionarGeneroAsync(CriarGeneroRequest request)
 	{
+		validator.ValidateCommand(request);
+
 		var exist = await generoRepository.ExisteGeneroAsync(request.Nome);
 
 		if (exist)
