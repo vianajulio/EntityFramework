@@ -38,7 +38,7 @@ public class AutorService(IAutorRepository autorRepository, AutorValidator valid
 	}
 
 	public async Task DeleteAutorAsync(Autor autor)
-		=> await autorRepository.DeletarAutorAsync(autor);
+		=> await autorRepository.DeletarAutorAsync(autor.Codigo);
 
 	public async Task<Autor?> ObterPorIdAsync(Guid autorId)
 	{
