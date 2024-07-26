@@ -1,6 +1,5 @@
 ﻿using Domain.Exceptions;
 using Domain.Genero.Requests;
-using Domain.Genero.Validators;
 
 namespace Domain.Genero;
 

@@ -1,20 +1,20 @@
 ﻿using Domain.Genero.Requests;
 using FluentValidation;
 
-namespace Domain.Genero.Validators;
+namespace Domain.Genero;
 
 public class GeneroValidator : AbstractValidator<BaseGeneroRequest>
 {
 	public GeneroValidator()
 	{
 		RuleFor(x => x.Nome)
-			.Null()
-			.Empty()
+			.NotNull()
+			.NotEmpty()
 			.WithMessage("O nome do gênero é obrigatório.");
 
 		RuleFor(x => x.MaiorIdade)
-			.Null()
-			.Empty()
+			.NotNull()
+			.NotEmpty()
 			.WithMessage("O valor de maior idade é obrigatório.");
 	}
 }

@@ -1,5 +1,6 @@
 using Api.Extensions;
-using Domain.Genero.Validators;
+using Domain.Autor;
+using Domain.Genero;
 using Infrastructure.Repository;
 using Infrastructure.Services;
 
@@ -8,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IGeneroRepository, GeneroRepository>();
 builder.Services.AddScoped<IGeneroService, GeneroService>();
 builder.Services.AddScoped<GeneroValidator>();
+builder.Services.AddScoped<IAutorRepository, AutorRepository>();
+builder.Services.AddScoped<IAutorService, AutorService>();
+builder.Services.AddScoped<AutorValidator>();
 
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
