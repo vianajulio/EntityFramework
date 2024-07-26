@@ -298,3 +298,10 @@ __pycache__/
 /Domain/bin
 /Infrastructure/bin
 /Infrastructure/obj
+/.vs
+/Api/bin
+/Api/obj
+/Domain/bin
+/Domain/obj
+/Infrastructure/bin
+/Infrastructure/obj
