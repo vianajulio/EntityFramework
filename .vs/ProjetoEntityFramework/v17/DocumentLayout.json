@@ -1,59 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Fraga\\EntityFramework\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 537,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 622,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
-              "RelativeDocumentMoniker": "Domain\\Autor\\Autor.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
-              "RelativeToolTip": "Domain\\Autor\\Autor.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAvwCQAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T23:05:26.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AtualizarAutorRequest.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
-              "RelativeDocumentMoniker": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
-              "RelativeToolTip": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T23:05:10.467Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -89,32 +46,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutorService.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\AutorService.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\AutorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T23:05:07.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutorRepository.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AutorRepository.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\AutorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T23:04:58.792Z",
-              "EditorCaption": ""
             }
           ]
         }
