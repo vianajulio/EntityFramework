@@ -105,7 +105,7 @@ namespace Infrastructure.Migrations
                     b.HasOne("Domain.Genero.Genero", null)
                         .WithMany()
                         .HasForeignKey("GeneroFavorito")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
                 });
 

@@ -1,7 +1,6 @@
 ﻿using Domain.Exceptions;
 using Domain.Genero;
 using Domain.Genero.Requests;
-using Domain.Genero.Validators;
 using Infrastructure.Repository;
 
 namespace Infrastructure.Services;

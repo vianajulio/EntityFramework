@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "D:\\Fraga\\EntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|D:\\Fraga\\EntityFramework\\domain\\exceptions\\validatorexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\validatorexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|D:\\Fraga\\EntityFramework\\domain\\genero\\validators\\generovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\genero\\validators\\generovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\services\\igeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\igeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\entityconfigurations\\generoentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entityconfigurations\\generoentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|D:\\Fraga\\EntityFramework\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|D:\\Fraga\\EntityFramework\\api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|solutionrelative:api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|D:\\Fraga\\EntityFramework\\domain\\genero\\requests\\atualizargenerorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\genero\\requests\\atualizargenerorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\repository\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\igenerorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|D:\\Fraga\\EntityFramework\\infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,9 +25,35 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 702,
-          "SelectedChildIndex": 15,
+          "DockedWidth": 537,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Autor\\Autor.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
+              "RelativeToolTip": "Domain\\Autor\\Autor.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwCQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:05:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtualizarAutorRequest.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "RelativeToolTip": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:05:10.467Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -98,153 +92,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeneroRepository.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\GeneroRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\GeneroRepository.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\GeneroRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\GeneroRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAnwBoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:24:27.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IGeneroRepository.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\IGeneroRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\IGeneroRepository.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\IGeneroRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\IGeneroRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:24:17.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GeneroController.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\GeneroController.cs",
-              "RelativeDocumentMoniker": "Api\\Controllers\\GeneroController.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\GeneroController.cs",
-              "RelativeToolTip": "Api\\Controllers\\GeneroController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:07:56.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Contexts\\DataContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\DataContext.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Contexts\\DataContext.cs",
-              "RelativeToolTip": "Infrastructure\\Contexts\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:03:26.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-23T16:53:27.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AtualizarGeneroRequest.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Genero\\Requests\\AtualizarGeneroRequest.cs",
-              "RelativeDocumentMoniker": "Domain\\Genero\\Requests\\AtualizarGeneroRequest.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Genero\\Requests\\AtualizarGeneroRequest.cs",
-              "RelativeToolTip": "Domain\\Genero\\Requests\\AtualizarGeneroRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:32:37.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValidatorExeption.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Exceptions\\ValidatorExeption.cs",
-              "RelativeDocumentMoniker": "Domain\\Exceptions\\ValidatorExeption.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Exceptions\\ValidatorExeption.cs",
-              "RelativeToolTip": "Domain\\Exceptions\\ValidatorExeption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T16:23:47.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GeneroValidator.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Genero\\Validators\\GeneroValidator.cs",
-              "RelativeDocumentMoniker": "Domain\\Genero\\Validators\\GeneroValidator.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Genero\\Validators\\GeneroValidator.cs",
-              "RelativeToolTip": "Domain\\Genero\\Validators\\GeneroValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AutorService.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T13:45:59.632Z",
+              "WhenOpened": "2024-07-25T23:05:07.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IGeneroService.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\IGeneroService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\IGeneroService.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\IGeneroService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\IGeneroService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AutorRepository.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:24:45.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeneroService.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\GeneroService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\GeneroService.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\GeneroService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\GeneroService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:28:13.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Api\\Program.cs",
-              "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Api\\Program.cs",
-              "RelativeToolTip": "Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:49:23.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GeneroEntityTypeConfiguration.cs",
-              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\GeneroEntityTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\EntityConfigurations\\GeneroEntityTypeConfiguration.cs",
-              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\GeneroEntityTypeConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\EntityConfigurations\\GeneroEntityTypeConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T17:59:34.227Z",
+              "WhenOpened": "2024-07-25T23:04:58.792Z",
               "EditorCaption": ""
             }
           ]

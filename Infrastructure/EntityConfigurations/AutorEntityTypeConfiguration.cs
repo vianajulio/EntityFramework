@@ -28,6 +28,7 @@ public class AutorEntityTypeConfiguration : IEntityTypeConfiguration<Autor>
 		builder.HasOne<Genero>()
 			.WithMany()
 			.HasForeignKey(a => a.GeneroFavorito)
+			.OnDelete(DeleteBehavior.NoAction)
 			.IsRequired();
 	}
 }
