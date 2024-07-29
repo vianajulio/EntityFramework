@@ -1,8 +1,6 @@
 ﻿using Domain.Autor;
 using Domain.Autor.Resquest;
-using Domain.Exceptions;
 using Infrastructure.Repository;
-using Org.BouncyCastle.Asn1.Ocsp;
 
 namespace Infrastructure.Services;
 
@@ -45,7 +43,7 @@ public class AutorService(IAutorRepository autorRepository, AutorValidator valid
 		var autor = await autorRepository.ObterAutorPorIdAsync(autorId);
 
 		if (autor is null)
-			throw new Exception("O autor já está cadastrado.");
+			throw new Exception("O autor não foi encontrado.");
 
 		return autor;
 	}

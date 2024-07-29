@@ -1,15 +1,100 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Fraga\\EntityFramework\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\relacionamento\\livroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\relacionamento\\livroautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\entityconfigurations\\livroautorentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entityconfigurations\\livroautorentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\entityconfigurations\\autorentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entityconfigurations\\autorentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|d:\\fraga\\entityframework\\api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|solutionrelative:api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\livro\\request\\criarlivrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\livro\\request\\criarlivrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Fraga\\EntityFramework\\Infrastructure\\Migrations\\20240729200204_v004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20240729200204_v004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|D:\\Fraga\\EntityFramework\\domain\\livro\\livrovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\livro\\livrovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\livro\\request\\atualizarlivrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\livro\\request\\atualizarlivrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|d:\\fraga\\entityframework\\api\\extensions\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|solutionrelative:api\\extensions\\databaseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|d:\\fraga\\entityframework\\api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A7FAA-FAA0-4977-866E-9A30514D99AE}|Api\\Api.csproj|solutionrelative:api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\repository\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\resquest\\atualizarautorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|d:\\fraga\\entityframework\\domain\\autor\\autorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD7288F-080E-420D-AB49-91B850A3CC9A}|Domain\\Domain.csproj|solutionrelative:domain\\autor\\autorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|d:\\fraga\\entityframework\\infrastructure\\services\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB82AF4-0840-4CC4-ABE6-49BA88C0AB95}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 622,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 579,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +131,285 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240729200204_v004.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Migrations\\20240729200204_v004.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240729200204_v004.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Migrations\\20240729200204_v004.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240729200204_v004.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:02:04.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroAutorEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\LivroAutorEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EntityConfigurations\\LivroAutorEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\LivroAutorEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\EntityConfigurations\\LivroAutorEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:58:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroAutor.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Relacionamento\\LivroAutor.cs",
+              "RelativeDocumentMoniker": "Domain\\Relacionamento\\LivroAutor.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Relacionamento\\LivroAutor.cs",
+              "RelativeToolTip": "Domain\\Relacionamento\\LivroAutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:48:39.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\LivroController.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Api\\Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:12:11.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Livro.cs",
+              "RelativeDocumentMoniker": "Domain\\Livro\\Livro.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Livro.cs",
+              "RelativeToolTip": "Domain\\Livro\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:10:01.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroValidator.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\LivroValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Livro\\LivroValidator.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\LivroValidator.cs",
+              "RelativeToolTip": "Domain\\Livro\\LivroValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:23:17.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\LivroService.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\LivroService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\LivroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:48:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\LivroRepository.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\LivroRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\LivroRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:36:08.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 563,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
+              "RelativeDocumentMoniker": "Domain\\Autor\\Autor.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Autor.cs",
+              "RelativeToolTip": "Domain\\Autor\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:05:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\AutorEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EntityConfigurations\\AutorEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\EntityConfigurations\\AutorEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\EntityConfigurations\\AutorEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:02:54.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AutorController.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:12:14.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AutorService.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\AutorService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AutorService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:49:19.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\IAutorService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\IAutorService.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\IAutorService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\IAutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:48:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseExtensions.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Api\\Extensions\\DatabaseExtensions.cs",
+              "RelativeDocumentMoniker": "Api\\Extensions\\DatabaseExtensions.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Api\\Extensions\\DatabaseExtensions.cs",
+              "RelativeToolTip": "Api\\Extensions\\DatabaseExtensions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:18:11.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorValidator.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\AutorValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Autor\\AutorValidator.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\AutorValidator.cs",
+              "RelativeToolTip": "Domain\\Autor\\AutorValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:23:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AtualizarAutorRequest.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "RelativeToolTip": "Domain\\Autor\\Resquest\\AtualizarAutorRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:18:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\IAutorRepository.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\IAutorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\IAutorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:24:42.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AutorRepository.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Repository\\AutorRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AutorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:27:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILivroService.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\ILivroService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ILivroService.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Infrastructure\\Services\\ILivroService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ILivroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:46:10.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtualizarLivroRequest.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Request\\AtualizarLivroRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Livro\\Request\\AtualizarLivroRequest.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Request\\AtualizarLivroRequest.cs",
+              "RelativeToolTip": "Domain\\Livro\\Request\\AtualizarLivroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:42:02.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarLivroRequest.cs",
+              "DocumentMoniker": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Request\\CriarLivroRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Livro\\Request\\CriarLivroRequest.cs",
+              "ToolTip": "D:\\Fraga\\EntityFramework\\Domain\\Livro\\Request\\CriarLivroRequest.cs",
+              "RelativeToolTip": "Domain\\Livro\\Request\\CriarLivroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:40:38.701Z",
+              "EditorCaption": ""
             }
           ]
         }
