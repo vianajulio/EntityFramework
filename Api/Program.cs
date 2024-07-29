@@ -1,6 +1,7 @@
 using Api.Extensions;
 using Domain.Autor;
 using Domain.Genero;
+using Domain.Relacionamento;
 using Domain.Livro;
 using Infrastructure.Repository;
 using Infrastructure.Services;
@@ -13,6 +14,9 @@ builder.Services.AddScoped<GeneroValidator>();
 builder.Services.AddScoped<IAutorRepository, AutorRepository>();
 builder.Services.AddScoped<IAutorService, AutorService>();
 builder.Services.AddScoped<AutorValidator>();
+builder.Services.AddScoped<ILivroAutorRepository, LivroAutorRepository>();
+builder.Services.AddScoped<ILivroAutorService, LivroAutorService>();
+builder.Services.AddScoped<LivroAutorValidator>();
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<ILivroService, LivroService>();
 builder.Services.AddScoped<LivroValidator>();

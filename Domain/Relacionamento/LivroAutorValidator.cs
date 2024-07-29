@@ -1,10 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Domain.Relacionamento.Request;
+using FluentValidation;
 
 namespace Domain.Relacionamento;
-internal class LivroAutorValidator
+
+public class LivroAutorValidator : AbstractValidator<LivroAutorBaseRequest>
 {
+	public LivroAutorValidator()
+	{
+		RuleFor(x => x.AutorCodigo)
+			.NotNull()
+			.NotEmpty()
+			.WithMessage("O codigo do autor é obrigatório.");
+
+		RuleFor(x => x.LivroCodigo)
+			.NotNull()
+			.NotEmpty()
+			.WithMessage("O codigo do livro é obrigatório.");
+	}
 }
