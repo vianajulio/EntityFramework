@@ -52,4 +52,8 @@ public class LivroRepository : ILivroRepository
 
 	public async Task<IReadOnlyCollection<Livro>> ObterTodosLivrosAsync()
 		=> await _dataContext.Livro.OrderBy(x => x.Titulo).ToListAsync();
+
+    public async Task<bool> ObterLivroPorGeneroAsync(Guid generoId) => 
+		await _dataContext.Livro.AnyAsync(x => x.Genero.Equals(generoId));
+
 }

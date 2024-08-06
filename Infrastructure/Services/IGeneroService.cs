@@ -5,9 +5,9 @@ namespace Infrastructure.Services;
 
 public interface IGeneroService
 {
-	Task<Genero> AdicionarGeneroAsync(CriarGeneroRequest request);
-	Task<Genero?> AtualizarGeneroAsync(AtualizarGeneroRequest request);
-	Task DeletarGeneroAsync();
-	Task<IReadOnlyCollection<Genero>> ObterGeneroAsync();
-	Task<Genero?> ObterPorIdAsync(Guid id);
+    Task<Genero> AdicionarGeneroAsync(CriarGeneroRequest request);
+    Task<Genero?> AtualizarGeneroAsync(Guid generoId, AtualizarGeneroRequest request);
+    Task DeletarGeneroAsync(Guid id);
+    Task<IReadOnlyCollection<Genero>> ObterTodosGenerosAsync();
+    Task<Genero?> ObterPorIdAsync(Guid id);
 }
