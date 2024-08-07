@@ -11,4 +11,6 @@ public interface ILivroRepository
 	Task<Livro?> ObterLivroPorIdAsync(Guid livroCodigo);
 	Task<IReadOnlyCollection<Livro>> ObterTodosLivrosAsync();
 	Task<bool> ExisteLivroAsync(BaseLivroRequest livro);
+
+	Task<bool> ObterLivroPorGeneroAsync(Guid generoId);
 }
