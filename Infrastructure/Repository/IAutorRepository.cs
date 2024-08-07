@@ -11,4 +11,6 @@ public interface IAutorRepository
 	Task<Autor?> ObterAutorPorIdAsync(Guid autorId);
 	Task<IReadOnlyCollection<Autor>> ObterTodosAutoresAsync();
 	Task<bool> ExisteAutorAsync(BaseAutorRequest autor);
+
+    Task<bool> ObterAutorPorGeneroAsync(Guid generoId);
 }

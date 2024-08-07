@@ -51,4 +51,7 @@ public class AutorRepository : IAutorRepository
 
 	public async Task<IReadOnlyCollection<Autor>> ObterTodosAutoresAsync()
 		=> await _dataContext.Autor.OrderBy(x => x.Nome).ToListAsync();
+
+	public async Task<bool> ObterAutorPorGeneroAsync(Guid generoId) =>
+		await _dataContext.Autor.AnyAsync(a => a.GeneroFavorito.Equals(generoId));
 }
