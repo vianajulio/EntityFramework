@@ -4,7 +4,7 @@ using Infrastructure.Repository;
 
 namespace Infrastructure.Services;
 
-public class LivroService(ILivroRepository livroRepository, LivroValidator validator) : ILivroService
+public class LivroService(ILivroRepository livroRepository, ILivroAutorService livroAutorService, LivroValidator validator) : ILivroService
 {
 
 	public async Task<Livro> CriarLivroAsync(CriarLivroRequest request)
@@ -18,6 +18,7 @@ public class LivroService(ILivroRepository livroRepository, LivroValidator valid
 
 		await livroRepository.CriarLivroAsync(livro);
 
+		//await livroAutorService.CriarLivroAutorAsync();
 
 		return livro;
 	}
@@ -46,7 +47,7 @@ public class LivroService(ILivroRepository livroRepository, LivroValidator valid
 			throw new Exception("Nem um livro foi encontrado");
 
 		return livro;
-    }
+	}
 
 	public async Task<IReadOnlyCollection<Livro>> ObterTodosLivrosAsync()
 		=> await livroRepository.ObterTodosLivrosAsync();
