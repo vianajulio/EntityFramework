@@ -17,6 +17,13 @@ public class Livro
 
 	}
 
+	public Livro(string titulo, string tombo, Guid genero)
+	{
+		Titulo = titulo;
+		Tombo = tombo;
+		Genero = genero;
+	}
+
 	public Livro(string titulo, string tombo, Guid genero, IReadOnlyCollection<Guid> autoresId)
 	{
 		Titulo = titulo;
@@ -31,7 +38,6 @@ public class Livro
 		Titulo = titulo;
 		Tombo = tombo;
 		Genero = genero;
-		//Autores = autoresId.Select(x => new LivroAutor(Codigo, x)).ToList();
 	}
 
 	public static Livro CriarLivro(CriarLivroRequest command, LivroValidator validator)
@@ -45,6 +51,6 @@ public class Livro
 	{
 		validator.ValidateCommand(command);
 
-		return new Livro(command.Titulo, command.Tombo, command.Genero, command.AutoresCodigo);
+		return new Livro(command.Titulo, command.Tombo, command.Genero);
 	}
 }

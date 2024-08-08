@@ -15,17 +15,11 @@ public class LivroRepository : ILivroRepository
 		_dataContext = dataContext;
 	}
 
-	public async Task AtualizarLivroAsync(Livro livro)
+	public async Task AtualizarLivroAsync(Livro oldLivro, Livro livro)
 	{
-		var oldLivro = _dataContext.Livro.FirstOrDefault(x => x.Codigo.Equals(livro.Codigo));
-
 		oldLivro!.Titulo = livro.Titulo;
 		oldLivro!.Tombo = livro.Tombo;
 		oldLivro!.Genero = livro.Genero;
-
-		var autores = await _dataContext.LivroAutor.Where(x => x.LivroCodigo.Equals(livro.Codigo)).ToListAsync();
-
-		autores = livro.Autores.ToList();
 
 		await _dataContext.SaveChangesAsync();
 	}

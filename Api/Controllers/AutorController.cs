@@ -43,7 +43,7 @@ public class AutorController : ControllerBase
     }
 
 	[HttpPut("{id:guid}")]
-	public async Task<IActionResult> Put(Guid id, [FromBody] AtualizarAutorRequest autor)
+	public async Task<IActionResult> Put(Guid id,  AtualizarAutorRequest autor)
 	{
 		var result = await _autorService.AtualizarAutorAsync(id, autor);
 

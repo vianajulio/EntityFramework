@@ -1,5 +1,6 @@
 ﻿using Domain.Livro;
 using Domain.Livro.Request;
+using Domain.Relacionamento.Request;
 using Infrastructure.Repository;
 
 namespace Infrastructure.Services;
@@ -7,7 +8,7 @@ namespace Infrastructure.Services;
 public class LivroService(ILivroRepository livroRepository, ILivroAutorService livroAutorService, LivroValidator validator) : ILivroService
 {
 
-	public async Task<Livro> CriarLivroAsync(CriarLivroRequest request)
+	public async Task<Livro> CriarLivroAsync(CriarLivroRequest request, Guid autorId)
 	{
 		var exise = await livroRepository.ExisteLivroAsync(request);
 
@@ -16,22 +17,23 @@ public class LivroService(ILivroRepository livroRepository, ILivroAutorService l
 
 		var livro = Livro.CriarLivro(request, validator);
 
-		await livroRepository.CriarLivroAsync(livro);
+		await livroAutorService.CriarLivroAutorAsync(new CriarLivroAutorRequest(livro.Codigo, autorId));
 
-		//await livroAutorService.CriarLivroAutorAsync();
+		await livroRepository.CriarLivroAsync(livro);
 
 		return livro;
 	}
 
-	public async Task<Livro> AtualizarLivroAsync(AtualizarLivroRequest request)
+	public async Task<Livro> AtualizarLivroAsync(Guid id, AtualizarLivroRequest request)
 	{
-		var exise = await livroRepository.ExisteLivroAsync(request);
+		var oldLivro = await livroRepository.ObterLivroPorIdAsync(id);
 
-		if (!exise)
+		if (oldLivro is null)
 			throw new Exception("Livro não encontrado.");
+
 		var livro = Livro.AtualizarLivro(request, validator);
 
-		await livroRepository.AtualizarLivroAsync(livro);
+		await livroRepository.AtualizarLivroAsync(oldLivro, livro);
 
 		return livro;
 	}

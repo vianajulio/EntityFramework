@@ -19,18 +19,42 @@ public class LivroController : ControllerBase
 	}
 
 	[HttpPost]
-	public async Task<IActionResult> Post(CriarLivroRequest request)
+	public async Task<IActionResult> Post([FromBody] CriarLivroRequest request, Guid autorId)
 	{
-		var livro = await _livroService.CriarLivroAsync(request);
+		var livro = await _livroService.CriarLivroAsync(request, autorId);
 
 		return Created("", livro);
 	}
 
 	[HttpGet]
-	public async Task<IActionResult> GetAll()
+	public async Task<IActionResult> ObterTodosLivros()
 	{
 		var livros = await _livroService.ObterTodosLivrosAsync();
 
 		return Ok(livros);
+	}
+
+	[HttpGet("{id:guid}")]
+	public async Task<IActionResult> ObterPorId(Guid id)
+	{
+		var result = await _livroService.ObterLivroPorIdAsync(id);
+
+		return Ok(result);
+	}
+
+	[HttpPut("{id:guid}")]
+	public async Task<IActionResult> AtualizarLivro(Guid id, AtualizarLivroRequest request)
+	{
+		var result = await _livroService.AtualizarLivroAsync(id, request);
+
+		return Ok(result);
+	}
+
+	[HttpDelete("{id:guid}")]
+	public async Task<IActionResult> DeletarLivroPorId(Guid id)
+	{
+		await _livroService.DeletarLivroAsync(id);
+
+		return Ok();
 	}
 }

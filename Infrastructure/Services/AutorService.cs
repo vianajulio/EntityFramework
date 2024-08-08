@@ -8,7 +8,6 @@ public class AutorService(IAutorRepository autorRepository, AutorValidator valid
 {
 	public async Task<Autor> CriarAutorAsync(CriarAutorRequest request)
 	{
-
 		var existe = await autorRepository.ExisteAutorAsync(request);
 
 		if (existe)
