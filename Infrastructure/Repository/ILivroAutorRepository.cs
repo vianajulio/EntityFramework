@@ -12,4 +12,5 @@ public interface ILivroAutorRepository
 	Task<IReadOnlyCollection<LivroAutor>> ObterLivrosPorAutorCodigo(Guid autorCodigo);
 	Task<IReadOnlyCollection<LivroAutor>> ObterAutoresPorLivrosCodigo(Guid livroCodigo);
 	Task<bool> ExiteAutorLivroAsync(LivroAutorBaseRequest livroAutor);
+	Task<bool> ExiteAutorAsync(Guid autorId);
 }

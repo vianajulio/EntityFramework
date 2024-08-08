@@ -18,28 +18,42 @@ public class AutorController : ControllerBase
 		_autorService = autorService;
 	}
 
-	[HttpPost]
-	public async Task<IActionResult> Post([FromBody] CriarAutorRequest autor)
+    [HttpPost]
+    public async Task<IActionResult> Post([FromBody] CriarAutorRequest autor)
+    {
+        var result = await _autorService.CriarAutorAsync(autor);
+
+        return Ok(result);
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> ObterTodosAutores()
+    {
+        var autor = await _autorService.ObterTodosAutoresAsync();
+
+        return autor is null ? NoContent() : Ok(autor);
+    }
+
+    [HttpGet("{id:guid}")]
+    public async Task<IActionResult> GetById(Guid id)
+    {
+        var result = await _autorService.ObterPorIdAsync(id);
+
+        return Ok(result);
+    }
+
+	[HttpPut("{id:guid}")]
+	public async Task<IActionResult> Put(Guid id, [FromBody] AtualizarAutorRequest autor)
 	{
-		var result = await _autorService.CriarAutorAsync(autor);
+		var result = await _autorService.AtualizarAutorAsync(id, autor);
 
 		return Ok(result);
 	}
 
-	[HttpPut("edit")]
-	public async Task<IActionResult> Put([FromBody] AtualizarAutorRequest autor)
-	{
-		var result = await _autorService.AtualizarAutorAsync(autor);
-
-		return Ok(result);
-	}
-
-	[HttpGet("autorId")]
-	public async Task<IActionResult> GetById(Guid autorId)
-	{
-		var result = await _autorService.ObterPorIdAsync(autorId);
-
-		return Ok(result);
-	}
-
+    [HttpDelete("{id:guid}")]
+    public async Task<IActionResult> DeletarAutor(Guid id)
+    {
+        await _autorService.DeleteAutorAsync(id);
+        return Ok();
+    }
 }

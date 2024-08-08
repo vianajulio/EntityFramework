@@ -14,20 +14,8 @@ public class AutorRepository : IAutorRepository
 		_dataContext = dataContext;
 	}
 
-	public async Task AtualizarAutorAsync(Autor autor)
+	public async Task AtualizarAutorAsync()
 	{
-		//var existGenero = await _dataContext.Genero.AnyAsync(x => x.Codigo.Equals(autor.GeneroFavoritoId));
-
-		//if (!existGenero)
-		//	throw new Exception("O genêro escolhido não existe na base de dados.");
-
-		var oldAutor = await _dataContext.Autor.FirstOrDefaultAsync(x => x.Codigo.Equals(autor.Codigo));
-
-		oldAutor!.Nome = autor.Nome;
-		oldAutor!.DataNascimento = autor.DataNascimento;
-		oldAutor!.GeneroFavorito = autor.GeneroFavorito;
-		oldAutor!.Livros = autor.Livros;
-
 		await _dataContext.SaveChangesAsync();
 	}
 

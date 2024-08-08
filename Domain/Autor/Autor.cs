@@ -37,10 +37,12 @@ public class Autor
 		return new Autor(command.Nome, command.DataNascimento, command.GeneroFavoritoId);
 	}
 
-	public static Autor AtualizarAutor(AtualizarAutorRequest command, AutorValidator validator)
+	public void AtualizarAutor(AtualizarAutorRequest command, AutorValidator validator)
 	{
 		validator.ValidateCommand(command);
 
-		return new Autor(command.Nome, command.DataNascimento, command.GeneroFavoritoId);
+		Nome = command.Nome;
+		DataNascimento = command.DataNascimento;
+		GeneroFavorito = command.GeneroFavoritoId;
 	}
 }

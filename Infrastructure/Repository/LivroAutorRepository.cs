@@ -55,7 +55,11 @@ public class LivroAutorRepository : ILivroAutorRepository
 				x.LivroCodigo.Equals(livroAutor.LivroCodigo)
 				&& x.AutorCodigo.Equals(livroAutor.AutorCodigo));
 
-	public async Task<IReadOnlyCollection<LivroAutor>> ObterAutoresPorLivrosCodigo(Guid livroCodigo)
+    public async Task<bool> ExiteAutorAsync(Guid autorId)
+        => await _dataContext.LivroAutor
+            .AnyAsync(x => x.AutorCodigo.Equals(autorId));
+
+    public async Task<IReadOnlyCollection<LivroAutor>> ObterAutoresPorLivrosCodigo(Guid livroCodigo)
 		=> await _dataContext.LivroAutor
 		.Where(x => x.LivroCodigo.Equals(livroCodigo))
 		.OrderBy(x => x.Autor.Nome)
