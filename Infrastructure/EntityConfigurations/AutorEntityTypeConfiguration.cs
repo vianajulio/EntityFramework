@@ -1,6 +1,5 @@
 ﻿using Domain.Autor;
 using Domain.Genero;
-using Domain.Livro;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
