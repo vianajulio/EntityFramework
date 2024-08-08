@@ -38,6 +38,7 @@ public static class GeneroConsole
 		{
 			await GeneroHttpRequest.Criar(new CriarGeneroRequest(nome, maiorIdade));
 
+			Console.Write("Cadastrado com sucesso.");
 			Console.Write("\nContinuar: ");
 			Console.ReadKey();
 		}
@@ -111,7 +112,7 @@ public static class GeneroConsole
 			Console.WriteLine(genero.MaiorIdade ? "+18" : "Livre");
 			Console.WriteLine("------");
 		}
-		Console.Write("Continuar: ");
+		Console.Write("\nContinuar: ");
 		Console.ReadKey();
 	}
 

@@ -70,16 +70,19 @@ internal class Program
 		switch (opcao)
 		{
 			case 1:
-				LivroAsync();
+				await LivroConsole.Criar();
+				await LivroAsync();
 				break;
 			case 2:
 				LivroAsync();
 				break;
 			case 3:
-				LivroAsync();
+				await LivroConsole.Listar();
+				await LivroAsync();
 				break;
 			case 4:
-				LivroAsync();
+				await LivroConsole.ObterPorCodigo();
+				await LivroAsync();
 				break;
 			case 5:
 				LivroAsync();
