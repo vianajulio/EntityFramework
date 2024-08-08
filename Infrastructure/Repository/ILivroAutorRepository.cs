@@ -6,9 +6,7 @@ namespace Infrastructure.Repository;
 public interface ILivroAutorRepository
 {
 	Task CriarLivroAutorAsync(LivroAutor livroAutor);
-	//Task AtualizarLivroPorAutorCodigoAsync(AtualizarLivroAutorRequest autorCodigo);
-	//Task AtualizarAutorPorLivroCodigoAsync(AtualizarLivroAutorRequest livroCodigo);
-	Task DeletarLivroAutorAsync(Guid autorCodigo, Guid livroCodigo);
+	Task DeletarLivroAutorAsync(LivroAutorBaseRequest request);
 	Task<IReadOnlyCollection<LivroAutor>> ObterLivrosPorAutorCodigo(Guid autorCodigo);
 	Task<IReadOnlyCollection<LivroAutor>> ObterAutoresPorLivrosCodigo(Guid livroCodigo);
 	Task<bool> ExiteAutorLivroAsync(LivroAutorBaseRequest livroAutor);
