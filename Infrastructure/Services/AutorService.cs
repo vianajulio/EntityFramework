@@ -46,10 +46,23 @@ public class AutorService(IAutorRepository autorRepository, AutorValidator valid
 		if (autor is null)
 			throw new Exception("O autor não foi encontrado.");
 
+		var livros = await livroAutorRepository.ObterLivrosPorAutorCodigo(autor.Codigo);
+		autor.Livros = livros;
+
 		return autor;
 	}
 
 	public async Task<IReadOnlyCollection<Autor>> ObterTodosAutoresAsync()
-		=> await autorRepository.ObterTodosAutoresAsync();
-	
+	{
+		var autores = await autorRepository.ObterTodosAutoresAsync();
+
+        foreach (var autor in autores)
+        {
+			var livros = await livroAutorRepository.ObterLivrosPorAutorCodigo(autor.Codigo);
+
+			autor.Livros = livros;
+        }
+
+        return autores;
+	}
 }

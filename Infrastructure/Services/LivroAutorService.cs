@@ -20,8 +20,8 @@ public class LivroAutorService(ILivroAutorRepository repository, LivroAutorValid
 		return livroAutor;
 	}
 
-	public async Task DeletarLivroAutorAsync(LivroAutorBaseRequest request)
-		=> await repository.DeletarLivroAutorAsync(request);
+	public async Task DeletarLivroAutorAsync(Guid livroCodigo)
+		=> await repository.DeletarLivroAutorAsync(livroCodigo);
 
 	public async Task<IReadOnlyCollection<LivroAutor>> ObterAutoresPorLivroCodigo(Guid livroCodigo)
 		=> await repository.ObterAutoresPorLivrosCodigo(livroCodigo);

@@ -39,7 +39,11 @@ public class LivroService(ILivroRepository livroRepository, ILivroAutorService l
 	}
 
 	public async Task DeletarLivroAsync(Guid livroCodigo)
-		=> await livroRepository.DeletarLivroAsync(livroCodigo);
+	{
+		await livroRepository.DeletarLivroAsync(livroCodigo);
+
+		await livroAutorService.DeletarLivroAutorAsync(livroCodigo);
+	}
 
 	public async Task<Livro?> ObterLivroPorIdAsync(Guid livroCodigo)
 	{
@@ -52,5 +56,15 @@ public class LivroService(ILivroRepository livroRepository, ILivroAutorService l
 	}
 
 	public async Task<IReadOnlyCollection<Livro>> ObterTodosLivrosAsync()
-		=> await livroRepository.ObterTodosLivrosAsync();
+	{
+		var livros = await livroRepository.ObterTodosLivrosAsync();
+
+		foreach (var livro in livros)
+		{
+			var autores = await livroAutorService.ObterAutoresPorLivroCodigo(livro.Codigo);
+			livro.Autores = autores;
+		}
+
+		return livros;
+	}
 }

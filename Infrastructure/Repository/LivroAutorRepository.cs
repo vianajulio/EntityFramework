@@ -20,11 +20,10 @@ public class LivroAutorRepository : ILivroAutorRepository
 		await _dataContext.SaveChangesAsync();
 	}
 
-	public async Task DeletarLivroAutorAsync(LivroAutorBaseRequest request)
+	public async Task DeletarLivroAutorAsync(Guid livroCodigo)
 		=> await _dataContext.LivroAutor
 			.Where(x =>
-				x.LivroCodigo.Equals(request.LivroCodigo)
-				&& x.AutorCodigo.Equals(request.AutorCodigo))
+				x.LivroCodigo.Equals(livroCodigo))
 				.ExecuteDeleteAsync();
 
 	public async Task<bool> ExiteAutorLivroAsync(LivroAutorBaseRequest livroAutor)

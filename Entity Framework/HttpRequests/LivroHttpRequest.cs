@@ -12,7 +12,7 @@ public class LivroHttpRequest
 	public static async Task Criar(CriarLivroRequest request)
 	{
 		var client = new HttpClient();
-
+		
 		var content = new StringContent(JsonSerializer.Serialize(request), System.Text.Encoding.UTF8, "application/json");
 
 		await client.PostAsync(apiUrl, content);
